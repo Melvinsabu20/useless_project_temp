@@ -1,39 +1,39 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# Emergency App 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: M&M
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Milan Saji - College Of Engineering, Kallooppaa
+- Member 2: Melvin Varghese Sabu - College Of Engineering, Kallooppara
 
 ### Project Description
-[2-3 lines about what your project does]
+The **Emergency App** is a Flutter project that lets users select an emergency type, auto-dial the contact, and then play a calming Veena tune to keep them relaxed.
+It’s a completely unnecessary yet entertaining showcase of Flutter’s UI and device feature integration.
+
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+In the chaos of an emergency, what people truly lack isn’t medical help or fire trucks—it’s a front-row seat to a calming Veena concert. No one’s ever complained about this, but we decided the world couldn’t go on without it.
+
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+An app that takes your urgent cry for help, dials the emergency number… and then treats you to a soothing Veena solo. It won’t put out fires or stop heart attacks, but hey—you’ll be panicking in style.
+
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
+- Dart
+- Flutter
+- Google fonts,audio player
+- 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- android phone
 
 ### Implementation
 For Software:
